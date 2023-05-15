@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "683575770862",
+    "project_id": "all-in-one-games-2023",
+    "storage_bucket": "all-in-one-games-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683575770862:android:e6dd2ba40c1faf11d3fdff",
+        "android_client_info": {
+          "package_name": "com.cultofgames.allinonegamescog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683575770862-ffp21oli5tfa4r7gihqkbt740gtko2g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMZ8aUMOMNVb_E_1tTnNoDOb80VAAWF-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683575770862-ffp21oli5tfa4r7gihqkbt740gtko2g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683575770862:android:9d4f11a9e200c24fd3fdff",
+        "android_client_info": {
+          "package_name": "com.mehboob.gameadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683575770862-ffp21oli5tfa4r7gihqkbt740gtko2g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMZ8aUMOMNVb_E_1tTnNoDOb80VAAWF-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683575770862-ffp21oli5tfa4r7gihqkbt740gtko2g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
