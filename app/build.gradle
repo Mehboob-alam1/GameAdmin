@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.mehboob.gameadmin'
+    namespace 'com.mehboob.earn'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.mehboob.gameadmin"
+        applicationId "com.mehboob.earn"
         minSdk 23
         targetSdk 33
         versionCode 1

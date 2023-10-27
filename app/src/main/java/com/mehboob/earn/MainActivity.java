@@ -1,4 +1,4 @@
-package com.mehboob.gameadmin;
+package com.mehboob.earn;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
@@ -24,7 +24,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
-import com.mehboob.gameadmin.databinding.ActivityMainBinding;
+import com.mehboob.earn.databinding.ActivityMainBinding;
 
 import java.io.ByteArrayOutputStream;
 import java.util.UUID;

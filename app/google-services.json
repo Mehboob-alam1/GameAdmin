@@ -1,33 +1,42 @@
 {
   "project_info": {
-    "project_number": "683575770862",
-    "project_id": "all-in-one-games-2023",
-    "storage_bucket": "all-in-one-games-2023.appspot.com"
+    "project_number": "924083677310",
+    "firebase_url": "https://funearn-fc6c0-default-rtdb.firebaseio.com",
+    "project_id": "funearn-fc6c0",
+    "storage_bucket": "funearn-fc6c0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:683575770862:android:e6dd2ba40c1faf11d3fdff",
+        "mobilesdk_app_id": "1:924083677310:android:1ad956fce5943d836d102f",
         "android_client_info": {
-          "package_name": "com.cultofgames.allinonegamescog"
+          "package_name": "com.cultofgames.funearn"
         }
       },
       "oauth_client": [
         {
-          "client_id": "683575770862-ffp21oli5tfa4r7gihqkbt740gtko2g7.apps.googleusercontent.com",
+          "client_id": "924083677310-06vouoovsr0aga447al1b51a1ckgn2ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cultofgames.funearn",
+            "certificate_hash": "59a1de8e5bad28d8e31b340939ecdf50802d256f"
+          }
+        },
+        {
+          "client_id": "924083677310-0cdpkpcg07rg9kkam4qm92uo2v3k6uqp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDMZ8aUMOMNVb_E_1tTnNoDOb80VAAWF-I"
+          "current_key": "AIzaSyARCkbjCVeKF9VgX0WE19wr3VVdfO6PeQg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "683575770862-ffp21oli5tfa4r7gihqkbt740gtko2g7.apps.googleusercontent.com",
+              "client_id": "924083677310-0cdpkpcg07rg9kkam4qm92uo2v3k6uqp.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -36,27 +45,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:683575770862:android:9d4f11a9e200c24fd3fdff",
+        "mobilesdk_app_id": "1:924083677310:android:6350ad938f59f3fa6d102f",
         "android_client_info": {
-          "package_name": "com.mehboob.gameadmin"
+          "package_name": "com.mehboob.earn"
         }
       },
       "oauth_client": [
         {
-          "client_id": "683575770862-ffp21oli5tfa4r7gihqkbt740gtko2g7.apps.googleusercontent.com",
+          "client_id": "924083677310-0cdpkpcg07rg9kkam4qm92uo2v3k6uqp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDMZ8aUMOMNVb_E_1tTnNoDOb80VAAWF-I"
+          "current_key": "AIzaSyARCkbjCVeKF9VgX0WE19wr3VVdfO6PeQg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "683575770862-ffp21oli5tfa4r7gihqkbt740gtko2g7.apps.googleusercontent.com",
+              "client_id": "924083677310-0cdpkpcg07rg9kkam4qm92uo2v3k6uqp.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

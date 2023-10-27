@@ -1,4 +1,4 @@
-package com.mehboob.gameadmin;
+package com.mehboob.earn;
 
 import org.junit.Test;
 
